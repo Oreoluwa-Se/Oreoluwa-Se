@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oreoluwa-Se
+- 👋 Hi, I’m @Oreoluwa
 - 👀 I’m interested in robotics and computer vision with thoughts of transitioning into the robotics software engineering
 - 🌱 I’m currently learning how to create visual odometry for autonomous vehicles
 - 💞️ I’m looking to collaborate on projects, or work in relations to computer vision and/or robotics
