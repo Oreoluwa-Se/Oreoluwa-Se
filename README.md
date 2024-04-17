@@ -8,6 +8,6 @@ Hello! I'm a Software Engineer at the intersection of robotics, computer vision,
 
 Current Projects:
 
-Visual Odometry Enhancement: Innovating on dense map storage solutions for SLAM, optimizing for scalability and efficiency in data handling.
-Semantic Data Analysis: Leveraging deep learning to infuse semantic information into tabular data processing, aiming to elevate prediction accuracy and insights.
+**Visual Odometry Enhancement**: Innovating on dense map storage solutions for SLAM, optimizing for scalability and efficiency in data handling.
+**Semantic Data Analysis**: Leveraging deep learning to infuse semantic information into tabular data processing, aiming to elevate prediction accuracy and insights.
 Eager to collaborate with teams that value innovation, clear communication, and a multidisciplinary skill set, I'm on a quest to explore new frontiers where technology meets practicality.
